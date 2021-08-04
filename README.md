@@ -30,7 +30,7 @@ SELECT * FROM groceries;
 
 And get back the inserted data (represented in a table below)
 
-```text
+```bash
 id                 name        quantity      aisle
 ------------    ----------  ----------  ----------  
 1                Apples          2          1
